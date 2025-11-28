@@ -1,0 +1,7 @@
+# Librairies principales de calcul et de tracé
+numpy
+matplotlib
+
+# Librairies nécessaires pour l'interactivité et le déploiement
+ipywidgets
+voila
